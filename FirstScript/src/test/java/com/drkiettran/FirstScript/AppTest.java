@@ -1,4 +1,4 @@
-package com.drkiettran.calculator;
+package com.drkiettran.FirstScript;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
@@ -9,11 +9,11 @@ import org.junit.jupiter.api.Test;
  */
 public class AppTest {
 
-	/**
-	 * Rigorous Test :-)
-	 */
-	@Test
-	public void shouldAnswerWithTrue() {
-		assertTrue(true);
-	}
+    /**
+     * Rigorous Test :-)
+     */
+    @Test
+    public void shouldAnswerWithTrue() {
+        assertTrue(true);
+    }
 }
